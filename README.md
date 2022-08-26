@@ -8,4 +8,4 @@ Ride hailing services are services that use online-enabled platforms to connect 
 
 To improve the efficiency of taxi dispatching systems for such services, <b>it is important to be able to predict how long a driver will have his taxi occupied</b>. If a dispatcher knew approximately when a taxi driver would be ending their current ride, they would be better able to identify which driver to assign to each pickup request.
 
-Our goal in this prject is <b>to build a model that predicts the total ride duration of taxi trips in New York City</b>.
+Our goal in this project is <b>to build a model that predicts the total ride duration of taxi trips in New York City</b>.
